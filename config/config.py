@@ -17,7 +17,7 @@ OWNER_USERNAME = getenv("OWNER_USERNAME", "Aurbin355")
 BOT_USERNAME = getenv("BOT_USERNAME", "MUSICBYROBOT")
 
 #❖  Don't Add style font 
-BOT_NAME = getenv("BOT_NAME", "AURBIN-x-MUSIC")
+BOT_NAME = getenv("BOT_NAME", "AURBIN MUSIC")
 
 #❖ get Your Assistant User name
 ASSUSERNAME = getenv("ASSUSERNAME", "ERA_ASS")
@@ -104,7 +104,7 @@ PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://envs.sh/3d4.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/7795e58425337d0455e95.jpg"
-STATS_IMG_URL = "https://envs.sh/kJq.jpg"
+STATS_IMG_URL = "https://graph.org/file/46e1ddb2dbec41c90f7be-648ed1838f91794c57.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/d2081243af7c1d7578b7b.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/d2081243af7c1d7578b7b.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/982b01ba53c3d69b0d0ce.jpg"
