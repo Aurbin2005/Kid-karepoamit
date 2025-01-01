@@ -17,7 +17,7 @@ OWNER_USERNAME = getenv("OWNER_USERNAME", "Aurbin355")
 BOT_USERNAME = getenv("BOT_USERNAME", "@Aurbin_25x_music_bot")
 
 #❖  Don't Add style font 
-BOT_NAME = getenv("BOT_NAME", "AURBIN MUSIC")
+BOT_NAME = getenv("BOT_NAME", "Aurbin Music")
 
 #❖ get Your Assistant User name
 ASSUSERNAME = getenv("ASSUSERNAME", "ERA_ASS")
@@ -34,7 +34,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600000))
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
 #❖ Get this value from on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "8107605197"))
+OWNER_ID = int(getenv("OWNER_ID", "8107605197,8036851856"))
 
 #❖  Your heroku app name
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
@@ -50,7 +50,7 @@ GPT_API = getenv("GPT_API", None)
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Patel070707/Kid-karepoamit",
+    "https://github.com/Aurbin2005/Kid-karepoamit.git",
 )
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
