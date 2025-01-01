@@ -31,7 +31,7 @@ async def handle_song(client, message):
             if chunk:
                 file.write(chunk)
 
-    caption = (f"""❖ sᴏɴɢ ɴᴀᴍᴇ ➥ {song_info['trackName']}\n\n● ᴀʟʙᴜᴍ ➥ {song_info['album']}\n ● ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ ➥ {song_info['releaseDate']}\n● ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➥ {message.from_user.mention}\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ  ➥ Aurbin)
+    caption = (f"""❖ sᴏɴɢ ɴᴀᴍᴇ ➥ {song_info['trackName']}\n\n● ᴀʟʙᴜᴍ ➥ {song_info['album']}\n ● ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ ➥ {song_info['releaseDate']}\n● ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➥ {message.from_user.mention}\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ  ➥ @Aurbin355)
 
     # Send audio and clean up
     await message.reply_audio(audio=open(filename, "rb"), caption=caption)
