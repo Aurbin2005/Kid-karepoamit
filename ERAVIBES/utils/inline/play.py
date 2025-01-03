@@ -69,14 +69,14 @@ def stream_markup_timer(_, chat_id, played, dur):
 
                 text="•ᴜᴘᴅᴧᴛᴇ•",
 
-                url=f"t.me/ll_BOTCHAMBER_ll",
+                url=f"https://t.me/aurbineditz",
 
             ),
             InlineKeyboardButton(
 
                 text="•sᴜᴘᴘᴏꝛᴛ• ",
 
-                url=f"t.me/FRIENDSHUBCHATZONE",
+                url=f"https://t.me/gushfgd",
 
             ),
         ],
@@ -98,14 +98,14 @@ def stream_markup(_, chat_id):
 
                 text="•ᴜᴘᴅᴧᴛᴇ•",
 
-                url=f"t.me/ll_BOTCHAMBER_ll",
+                url=f"https://t.me/aurbineditz",
 
             ),
             InlineKeyboardButton(
 
                 text="•sᴜᴘᴘᴏꝛᴛ•",
 
-                url=f"t.me/FRIENDSHUBCHATZONE",
+                url=f"https://t.me/gushfgd",
 
             ),
         ],
