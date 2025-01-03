@@ -82,11 +82,11 @@ def help_back_markup(_):
 def helps_back_markup(_):
     upl = InlineKeyboardMarkup(
         [
-[InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"t.me/ll_BOTCHAMBER_ll")],
+[InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/aurbineditz")],
 
-[InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", url=f"t.me/FRIENDSHUBCHATZONE"),
+[InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/gushfgd"),
 
-InlineKeyboardButton(text="• ᴀʟʟ ʙᴏᴛs •", url=f"t.me/DP_WORLD7")],
+InlineKeyboardButton(text="• ᴀʟʟ ʙᴏᴛs •", url=f"https://t.me/ll_BOTCHAMBER_ll")],
             [
                 InlineKeyboardButton(
                     text=_["BACK_BUTTON"],
