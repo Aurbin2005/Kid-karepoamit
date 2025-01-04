@@ -69,14 +69,14 @@ def stream_markup_timer(_, chat_id, played, dur):
 
                 text="•ᴜᴘᴅᴧᴛᴇ•",
 
-                url=f"https://t.me/aurbineditz",
+                url=f"https://t.me/aurbinmusicbot_channel",
 
             ),
             InlineKeyboardButton(
 
                 text="•sᴜᴘᴘᴏꝛᴛ• ",
 
-                url=f"https://t.me/gushfgd",
+                url=f"https://t.me/aurbinmusicsupport_group",
 
             ),
         ],
@@ -98,14 +98,14 @@ def stream_markup(_, chat_id):
 
                 text="•ᴜᴘᴅᴧᴛᴇ•",
 
-                url=f"https://t.me/aurbineditz",
+                url=f"https://t.me/aurbinmusicbot_channel",
 
             ),
             InlineKeyboardButton(
 
                 text="•sᴜᴘᴘᴏꝛᴛ•",
 
-                url=f"https://t.me/gushfgd",
+                url=f"https://t.me/aurbinmusicsupport_group",
 
             ),
         ],
