@@ -82,7 +82,7 @@ def help_back_markup(_):
 def helps_back_markup(_):
     upl = InlineKeyboardMarkup(
         [
-[InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/aurbinmusicchannel")],
+[InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/aurbinmusicchannel"),
 
 [InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/aurbinmusicsupport_group"),
 
