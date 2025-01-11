@@ -86,7 +86,7 @@ def helps_back_markup(_):
 
 [InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/aurbinmusicsupport_group"),
 
-InlineKeyboardButton(text="• ᴀʟʟ ʙᴏᴛs •", url=f"t.me/DP_WORLD7"),
+InlineKeyboardButton(text="• ᴀʟʟ ʙᴏᴛs •", url=f"t.me/DP_WORLD7")],
             [
                 InlineKeyboardButton(
                     text=_["BACK_BUTTON"],
